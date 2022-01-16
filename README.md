@@ -1,3 +1,1 @@
-# curriculo
-Reposit√≥rio de exemplo de curriculo
-Sincronizando o README
+"Teste alteraá∆o local"  
